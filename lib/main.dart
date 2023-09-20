@@ -35,7 +35,7 @@ class WatchScreen extends StatefulWidget {
 }
 
 class _WatchScreenState extends State<WatchScreen> {
-  int number = 40;
+  int number = 0;
 
   String get _title {
     if (number < 33) {
