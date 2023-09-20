@@ -5,11 +5,20 @@ Welcome to the Islamic Tasbihat Smartwatch App, a Flutter application designed t
 <img src="./screenshots/logo.png" alt="Screenshot 1" width="130" height="130">
 
 
+## Screenshots
+
+Here are some screenshots of the Islamic Tasbihat Smartwatch App in action:
+
+ ![Screenshot 1](./screenshots/Screenshot1.png)
+ ![Screenshot 2](./screenshots/Screenshot2.png)
+ ![Screenshot 3](./screenshots/Screenshot3.png)
+
 ## Features
 
 - **Easy Tasbih Counting**: This app allows you to easily count your tasbihat by tapping on the screen of your smartwatch.
 
 - **Customizable Tasbih**: You can customize the tasbih you want to recite, and the app will keep track of the count for you.
+
 
 ## Getting Started
 
@@ -26,14 +35,6 @@ To get started with the Islamic Tasbihat Smartwatch App, follow these steps:
 5. **Reset**: If you need to reset the count, there is an option to reset it within the app.
 
 6. **Finish**: When you have completed your tasbih, the app will display a summary of your recitation.
-
-## Screenshots
-
-Here are some screenshots of the Islamic Tasbihat Smartwatch App in action:
-
-- ![Screenshot 1](./screenshots/Screenshot1.png)
-- ![Screenshot 2](./screenshots/Screenshot2.png)
-- ![Screenshot 3](./screenshots/Screenshot3.png)
 
 ## License
 
