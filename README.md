@@ -1,10 +1,9 @@
 # Islamic Tasbihat Smartwatch App
 
 Welcome to the Islamic Tasbihat Smartwatch App, a Flutter application designed to help you keep track of your tasbihat (Islamic supplications) conveniently on your smartwatch.
+<!-- Give a width an hight -->
+<img src="./screenshots/logo.png" alt="Screenshot 1" width="130" height="130">
 
-![Screenshot 1](./screenshots/Screenshot1.png)
-![Screenshot 2](./screenshots/Screenshot2.png)
-![Screenshot 3](./screenshots/Screenshot3.png)
 
 ## Features
 
